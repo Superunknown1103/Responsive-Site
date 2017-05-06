@@ -1,0 +1,137 @@
+
+
+* {box-sizing:border-box;}
+
+.message {
+  width: 350px;
+  height: 200px;
+
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+}
+
+.box {
+  padding:0px 0px;
+  width: 150px;
+  height: 100px;
+  margin: 20px;
+  margin-left: 275px;
+  background-color: #008B8B;
+  text-align: center;
+}
+
+.head {
+  color: #4aaaa5;
+}
+
+.profile
+  {border-color:#ffffff;
+  }
+
+header {
+  background: #FFF8DC;
+}
+
+.footer {
+  border-top: solid 20px #4aaaa5;
+  padding-top: 30px;
+  padding-bottom: 60px;
+  bottom: 0;
+  background: black;
+  color: white;
+  clear: both;
+
+}
+
+form {
+  display: block;
+  margin-top: 2em;
+
+}
+
+.p {
+  color: #777777;
+}
+
+.about , .portfolio , .contact {
+  padding:0px 0px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  float: right;
+  margin: 50px;
+}
+
+
+.about {
+  margin-left: 1075px;
+}
+.portfolio {
+  margin-left: 975px;
+}
+
+.contact {
+  margin-left: 1150px;
+}
+
+
+h1 {
+  padding: 20px 32px;
+  margin: 0px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  color: #ffffff;
+  background: 660099;
+  text-align: left;
+}
+
+h2 {
+  font-size: 24px;
+  font-family: Georgia, serif;
+}
+
+a {
+  color: #d21034;
+}
+
+.container {
+  padding:1px 25px;
+  width: 650px;
+  height: 500px;
+  margin-left: 260px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  text-align: left;
+  float: left;
+}
+
+.container-portfolio {
+  padding:1px 25px;
+  width: 650px;
+  height: 1000px;
+  margin-left: 260px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  text-align: left;
+  float: left;
+}
+
+
+.connect {
+  padding:1px 25px;
+  width: 300px;
+  height: 300px;
+  margin-left: 950px;
+  margin-top: 40px;
+  background-color: #ffffff;
+  text-align: left
+}
