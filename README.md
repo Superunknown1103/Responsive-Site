@@ -1,2 +1,0 @@
-# Basic-Portgolio
-# Bootstrap-Portfolio
